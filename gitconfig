@@ -1,0 +1,9 @@
+[user]
+	name = Joshua Amosu
+	email = joshamosu123@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+[pull]
+	rebase = true
